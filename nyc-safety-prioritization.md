@@ -21,7 +21,7 @@ This project integrates 4 different datasets to analyze infrastructure condition
 - Jupyter Notebooks
 - Data visualization best practices
 
-![Crashes vs. Complaints by Borough](https://github.com/mboles84/Applied_Data_Science_2026/blob/main/6d495a9a-aacb-49ae-8abd-bf21164bee9d.jpg)
+![Crashes vs. Complaints by Borough](https://raw.githubusercontent.com/mboles84/Applied_Data_Science_2026/main/6d495a9a-aacb-49ae-8abd-bf21164bee9d.jpg)
 
 **[View Full Repository →]([https://github.com/mboles84/Applied_Data_Science_2026](https://github.com/mboles84/Applied_Data_Science_2026))**
 
