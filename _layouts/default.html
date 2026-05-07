@@ -1,0 +1,46 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
+
+      <nav class="main-nav">
+        <ul>
+          {% for item in site.data.navigation %}
+            <li>
+              <a href="{{ item.link }}" class="{% if page.url == item.link %}active{% endif %}">
+                {{ item.name }}
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </nav>
+
+      <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <p>This site was built with ❤️ using GitHub Pages + Cayman theme</p>
+    </footer>
+  </body>
+</html>
