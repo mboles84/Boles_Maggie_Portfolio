@@ -27,7 +27,7 @@ When I'm not studying or working on projects, I enjoy spending time with my fami
 
 ## Featured Projects
 
-**[Data-Driven Safety Prioritization for NYC Uncontrolled Intersections](/nyc-safety-prioritization/)**  
+**[Data-Driven Safety Prioritization for NYC](/Boles_Maggie_Portfolio/nyc-safety-prioritization/)**
 Bringing together 4 datasets to identify high-risk traffic areas in support of New York’s Vision Zero goals.
 
 **[Telco Customer Churn Prediction](/telco-churn/)**  
