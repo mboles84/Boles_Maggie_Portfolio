@@ -31,7 +31,7 @@ Here are some projects I've worked on:
 
 - **[Telco Customer Churn]([https://github.com/mboles84/project2-repo](https://github.com/mboles84/Applied_Data_Science_2026_Project_2))**  
   Random Forest & XGBoost Model for identify customers at risk for churn with Telco Dataset. Preserves customer identity, identifies high-risk business models, and a focus on customer retention.
-  `![Business Risk: Churn Percentage by Contract]([image-url](https://github.com/mboles84/Applied_Data_Science_2026_Project_2/blob/main/1179c016-6084-4504-82b4-9ac78e8b3ee3.jpg))`
+  ![Business Risk: Churn Percentage by Contract](https://github.com/mboles84/Applied_Data_Science_2026_Project_2/blob/main/1179c016-6084-4504-82b4-9ac78e8b3ee3.jpg)
 
 - **[Coming Soon!](https://github.com/mboles84/project3-repo)**  
   In progress.
