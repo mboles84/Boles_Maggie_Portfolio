@@ -1,14 +1,14 @@
 - name: Home
-  link: /
+  link: /Boles_Maggie_Portfolio/
 
 - name: About
-  link: /about/
+  link: /Boles_Maggie_Portfolio/about/
 
 - name: Projects
-  link: /projects/
+  link: /Boles_Maggie_Portfolio/projects/
 
-- name: NYC Safety Project
-  link: /nyc-safety-prioritization/
+- name: NYC Safety
+  link: /Boles_Maggie_Portfolio/nyc-safety-prioritization/
 
-- name: Telco Churn Project
-  link: /telco-churn/
+- name: Telco Churn
+  link: /Boles_Maggie_Portfolio/telco-churn/
