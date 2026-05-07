@@ -1,0 +1,14 @@
+- name: Home
+  link: /
+
+- name: About
+  link: /about/
+
+- name: Projects
+  link: /projects/
+
+- name: NYC Safety Project
+  link: /nyc-safety-prioritization/
+
+- name: Telco Churn Project
+  link: /telco-churn/
