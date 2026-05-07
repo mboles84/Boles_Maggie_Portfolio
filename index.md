@@ -27,7 +27,8 @@ I am a currently enrolled at Bellevue University. I'm also actively trying to fi
 Here are some projects I've worked on:
 
 - **[Data-Driven Safety Prioritization for NYC Uncontrolled Intersections]([https://github.com/mboles84/project1-repo](https://github.com/mboles84/Applied_Data_Science_2026))**  
-  Brought 4 Datasets together to identify NYS infrastructure and Motor Vehicle Collisions to identify high-risk traffic areas, to then be used for improvements towards Vision Zero goals. (You can add screenshots with `![alt text](image-url)` if you host images in your repo.)
+  Brings 4 datasets together to identify NYS infrastructure and Motor Vehicle Collisions to identify high-risk traffic areas, to then be used for improvements towards Vision Zero goals.
+  ![Crashes vs. Complaints by Borough](https://github.com/mboles84/Applied_Data_Science_2026/blob/main/6d495a9a-aacb-49ae-8abd-bf21164bee9d.jpg)
 
 - **[Telco Customer Churn]([https://github.com/mboles84/project2-repo](https://github.com/mboles84/Applied_Data_Science_2026_Project_2))**  
   Random Forest & XGBoost Model for identify customers at risk for churn with Telco Dataset. Preserves customer identity, identifies high-risk business models, and a focus on customer retention.
