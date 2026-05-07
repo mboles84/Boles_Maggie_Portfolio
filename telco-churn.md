@@ -21,4 +21,4 @@ Developed classification models (Random Forest & XGBoost) on a Telco dataset to 
 
 ---
 
-**Back to [Home](/)** | **[All Projects](/projects/)**
+**← [Back to Home](/Boles_Maggie_Portfolio/)** | **[All Projects](/Boles_Maggie_Portfolio/projects/)**
