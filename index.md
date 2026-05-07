@@ -1,39 +1,36 @@
-# About Me
+# Maggie Boles
 
-Hi, I'm Maggie Boles!
+**Aspiring Data Scientist** | Bellevue University
 
-This repository is a working collection for Maggie Boles' Portfolio.
+---
 
-Contact Info:
+### About Me
 
-Name: Maggie C. Boles
+I am currently enrolled at **Bellevue University** and actively seeking a career in **Data Science**. I thrive on fun, challenging problems that involve digging into data to find meaningful insights.
 
-Phone: Private
+When I'm not studying or working on projects, I enjoy spending time with my family. I’m currently collaborating on group projects in my final course, which has strengthened my appreciation for clear communication and iterative workflows in team environments.
 
-E-mail: Private
+### Skills
+- Leadership & Teachable
+- Data Analysis & Data Cleaning
+- Problem Solving & Critical Thinking
+- Math-Driven Decision Making
+- Curiosity & Adaptability
+- Integrity & Strong Work Ethic
 
-Skills:
+### Contact
+- **Email:** [your.email@example.com](mailto:your.email@example.com) *(replace with real email)*
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) *(highly recommended to add)*
+- **GitHub:** [github.com/mboles84](https://github.com/mboles84)
 
-Leadership, Teachable, Integrity, 
-Adaptive, Math-Driven, Data Analysis, 
-Data Cleaning, Problem Solving, Curious
+---
 
-About Me:
+## Featured Projects
 
-I am a currently enrolled at Bellevue University. I'm also actively trying to find a career in Data Science that is fun, engaging, and tough at times! I like to spend time with my family, but enjoy buckling down and working on projects. Currently, I'm working with my group in my final class to collaborate on projects together and divide up the work among the team. It's been a fun and challenging experience, but it's helped me realize how important communication and the flow of projects isn't just linear, it goes forward and backward.
+**[Data-Driven Safety Prioritization for NYC Uncontrolled Intersections](/nyc-safety-prioritization/)**  
+Bringing together 4 datasets to identify high-risk traffic areas in support of New York’s Vision Zero goals.
 
-## Projects
+**[Telco Customer Churn Prediction](/telco-churn/)**  
+Built Random Forest and XGBoost models to predict customer churn and identify retention opportunities.
 
-Here are some projects I've worked on:
-
-- **[Data-Driven Safety Prioritization for NYC Uncontrolled Intersections]([https://github.com/mboles84/project1-repo](https://github.com/mboles84/Applied_Data_Science_2026))**  
-  Brings 4 datasets together to identify NYS infrastructure and Motor Vehicle Collisions to identify high-risk traffic areas, to then be used for improvements towards Vision Zero goals.
-  ![Crashes vs. Complaints by Borough](https://github.com/mboles84/Applied_Data_Science_2026/blob/main/6d495a9a-aacb-49ae-8abd-bf21164bee9d.jpg)
-
-- **[Telco Customer Churn]([https://github.com/mboles84/project2-repo](https://github.com/mboles84/Applied_Data_Science_2026_Project_2))**  
-  Random Forest & XGBoost Model for identify customers at risk for churn with Telco Dataset. Preserves customer identity, identifies high-risk business models, and a focus on customer retention.
-  ![Business Risk: Churn Percentage by Contract](https://github.com/mboles84/Applied_Data_Science_2026_Project_2/blob/main/1179c016-6084-4504-82b4-9ac78e8b3ee3.jpg)
-
-- **[Coming Soon!](https://github.com/mboles84/project3-repo)**  
-  In progress.
-
+**[Project 3 – Coming Soon](/project-3/)**
