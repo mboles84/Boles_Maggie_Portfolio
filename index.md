@@ -14,7 +14,9 @@ E-mail: Private
 
 Skills:
 
-Leadership, Teachable, Curious, Adaptive, Math-Driven, Data Analysis, Data Cleaning, Problem Solving, Integrity
+Leadership, Teachable, Curious, 
+Adaptive, Math-Driven, Data Analysis, 
+Data Cleaning, Problem Solving, Integrity
 
 About Me:
 
