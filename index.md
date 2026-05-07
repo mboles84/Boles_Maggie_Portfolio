@@ -34,5 +34,5 @@ Here are some projects I've worked on:
   `![Business Risk: Churn Percentage by Contract]([image-url](https://github.com/mboles84/Applied_Data_Science_2026_Project_2/blob/main/1179c016-6084-4504-82b4-9ac78e8b3ee3.jpg))`
 
 - **[Coming Soon!](https://github.com/mboles84/project3-repo)**  
-  In progress!
+  In progress.
 
