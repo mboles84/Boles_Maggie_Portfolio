@@ -19,8 +19,8 @@ When I'm not studying or working on projects, I enjoy spending time with my fami
 - Integrity & Strong Work Ethic
 
 ### Contact
-- **Email:** [your.email@example.com](mailto:your.email@example.com) 
-- **LinkedIn:** [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/maggie-boles-0b719a244/)) 
+- **Email:** Private
+- **LinkedIn:** [https://www.linkedin.com/in/maggie-boles-0b719a244/](https://www.linkedin.com/in/maggie-boles-0b719a244/)
 - **GitHub:** [github.com/mboles84](https://github.com/mboles84)
 
 ---
