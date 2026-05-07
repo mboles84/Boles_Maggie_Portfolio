@@ -27,4 +27,4 @@ This project integrates 4 different datasets to analyze infrastructure condition
 
 ---
 
-**← [Back to Home](/Boles_Maggie_Portfolio/)** &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; **[All Projects](/Boles_Maggie_Portfolio/projects/)**
+**[← Back to Home](/Boles_Maggie_Portfolio/)**
