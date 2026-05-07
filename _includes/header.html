@@ -1,6 +1,3 @@
----
----
-
 <header class="page-header" role="banner">
   <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
   <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
@@ -10,7 +7,7 @@
       {% for item in site.data.navigation %}
         <li>
           <a href="{{ item.link }}" 
-             class="{% if page.url == item.link or page.url == item.link | append: 'index.html' %}active{% endif %}">
+             class="{% if page.url == item.link %}active{% endif %}">
             {{ item.name }}
           </a>
         </li>
@@ -18,7 +15,5 @@
     </ul>
   </nav>
 
-  {% if site.github.is_project_page %}
-    <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-  {% endif %}
+  <a href="https://github.com/mboles84/Boles_Maggie_Portfolio" class="btn">View on GitHub</a>
 </header>
