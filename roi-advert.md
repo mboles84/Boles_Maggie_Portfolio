@@ -1,5 +1,5 @@
 ---
-title: ROI for an Advertising Campaign
+title: ROI for Advertising
 permalink: /roi-advert/
 ---
 
