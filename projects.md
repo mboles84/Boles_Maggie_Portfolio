@@ -7,4 +7,4 @@ permalink: /Boles_Maggie_Portfolio/projects/
 
 - **[Data-Driven Safety Prioritization for NYC](/Boles_Maggie_Portfolio/nyc-safety-prioritization/)**
 - **[Telco Customer Churn Prediction](/Boles_Maggie_Portfolio/telco-churn/)**
-- **[ROI - Advertising Campaign]((/Boles_Maggie_Portfolio/roi-advert/)**
+- **[ROI - Advertising Campaign](/Boles_Maggie_Portfolio/roi-advert/)**
