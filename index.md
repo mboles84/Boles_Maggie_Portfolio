@@ -33,5 +33,5 @@ Bringing together 4 datasets to identify high-risk traffic areas in support of N
 **[Telco Customer Churn Prediction](/Boles_Maggie_Portfolio/telco-churn/)**  
 Built Random Forest and XGBoost models to predict customer churn and identify retention opportunities.
 
-**[ROI - Advertising Campaign](/Boles_Maggie_Portfolio/roi-advert/)**
+**[ROI - Advertising Campaign](/Boles_Maggie_Portfolio/roi-advert/)**  
 Built Random Forest model to predict positive and profitable customer response to an advertising campaign.
