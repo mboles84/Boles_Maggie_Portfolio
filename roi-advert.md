@@ -3,18 +3,18 @@ title: ROI for Advertising Campaign
 permalink: /roi-advert/
 ---
 
-# ROI for an advertising campaign
+# ROI for an Advertising Campaign
 
 **Goal:** Identify customers who will respond positively to an advertising campaign along with the expected average return.
 
 ### Project Overview
-This project integrates 4 different datasets to analyze infrastructure conditions and motor vehicle collisions across New York. The final output highlights priority areas for safety improvements.
+This project utilizes a UCI Machine Learning Repository dataset to analyze and identify customers who would positively respond to an advertising campaign, with expected profit margins. 
 
 ### Key Deliverables
-- Data cleaning and merging of large datasets
+- Data Cleaning and Feature Engineering
 - Exploratory data analysis and visualization
-- Identification of high-risk locations
-- Insights aligned with Vision Zero safety goals
+- Identification of top 5000 positive/profitable customers
+- Insights from data with actionable information
 
 ### Technologies Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit)
