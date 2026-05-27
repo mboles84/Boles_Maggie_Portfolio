@@ -5,10 +5,10 @@ permalink: /roi-advert/
 
 # ROI for an Advertising Campaign
 
-**Goal:** Identify customers who will respond positively to an advertising campaign along with the expected average return.
+**Goal:** Predicting customers who will respond positively to an advertising campaign.
 
 ### Project Overview
-This project utilizes a UCI Machine Learning Repository dataset to analyze and identify customers who would positively respond to an advertising campaign, with expected profit margins. 
+This project utilizes a UCI Machine Learning Repository dataset utilizing a Random Forest model identifying 5000 customers who should positively respond to an advertising campaign, along with expected return on investment. 
 
 ### Key Deliverables
 - Data Cleaning and Feature Engineering
