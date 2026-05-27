@@ -21,7 +21,7 @@ This project utilizes a UCI Machine Learning Repository dataset to analyze and i
 - Jupyter Notebooks
 - Data visualization best practices
 
-![Crashes vs. Complaints by Borough](https://raw.githubusercontent.com/mboles84/Applied_Data_Science_2026/main/6d495a9a-aacb-49ae-8abd-bf21164bee9d.jpg)
+![The Marketing Imbalance Paradox](http://github.com/mboles84/Applied_Data_Science_2026_Project_3/blob/main/Project%20Three%20Visual%205.png)
 
 **[View Full Repository →](https://github.com/mboles84/Applied_Data_Science_2026_Project_3/tree/main)**
 
