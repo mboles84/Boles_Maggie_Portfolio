@@ -15,7 +15,7 @@ Developed classification models (Random Forest & XGBoost) on a Telco dataset to 
 - Built models focused on business impact and customer retention
 - Provided clear visualizations for stakeholders
 
-![Business Risk: Churn Percentage by Contract](https://github.com/mboles84/Applied_Data_Science_2026_Project_3/blob/9f29e79363deb0dc029ad331fda8571c140a2368/Project%20Three%20Visual%205.jpg)
+![Business Risk: Churn Percentage by Contract](https://github.com/mboles84/Applied_Data_Science_2026_Project_2/blob/b3421edb1a683697a5ebcc916f8601a305225353/1179c016-6084-4504-82b4-9ac78e8b3ee3.jpg)
 
 **[View Full Repository →](https://github.com/mboles84/Applied_Data_Science_2026_Project_2)**
 
