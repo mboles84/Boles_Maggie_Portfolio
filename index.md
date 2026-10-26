@@ -6,7 +6,7 @@
 
 ### About Me
 
-I am currently enrolled at **Bellevue University** and actively seeking a career in **Data Science**. I thrive on fun, challenging problems that involve digging into data to find meaningful insights.
+I am a recent graduate from **Bellevue University** and actively seeking a career in **Data Science**. I thrive on fun, challenging problems that involve digging into data to find meaningful insights.
 
 When I’m not studying or working on projects, I enjoy spending time with my family. I’m currently collaborating on group projects in my final course, which has strengthened my appreciation for clear communication and iterative workflows.
 
